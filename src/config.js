@@ -6,11 +6,11 @@ export const PandaConfig = {
     defaultLocale: 'en',
     navbar: [
         // {title: 'Posts', url: '/'}, // auto generated
-        { title: 'about', url: '/about/' }
+        { title: 'About', url: '/about/' }
     ],
     footer: [
-        { title: 'rss', url: '/rss.xml/' },
-        { title: 'contact', url: 'https://github.com/yuhangch/astro-theme-panda/issues/new' },
-        { title: 'github', url: 'https://github.com/yuhangch/astro-theme-panda' }
+        { title: 'RSS', url: '/rss.xml/' },
+        { title: 'Contact', url: 'https://github.com/yuhangch/astro-theme-panda/issues/new' },
+        { title: 'Github', url: 'https://github.com/yuhangch/astro-theme-panda' }
     ]
 }

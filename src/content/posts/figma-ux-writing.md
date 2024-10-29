@@ -3,7 +3,6 @@ title: Figma 的 UX Writing
 description: 我用 UI3 的 AI 功能将 UI2 中的 UX Writing 相关内容翻译成了中文，并做了一些简单校对。
 pubDate: 2024-07-22
 tags:
-  - "#Design"
 categories: 
 draft: false
 ---

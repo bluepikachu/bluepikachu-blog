@@ -3,7 +3,6 @@ title: 一份附带谜题并差点翻车的礼物
 description: 曾经看到一个问题「送给别人的礼物里，哪一样是我花费了最多心思的？」，试图来回答一下。
 pubDate: 2024-07-26
 tags:
-  - "#Design"
 categories: 
 draft: false
 ---

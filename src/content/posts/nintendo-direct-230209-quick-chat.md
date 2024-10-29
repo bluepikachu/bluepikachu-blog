@@ -1,9 +1,12 @@
-﻿---
-title: "极速聊 Nintendo Direct 230209"
-description: "简单聊几句今天的任天堂直面会，主要依照日版的顺序."
+---
+title: 极速聊 Nintendo Direct 230209
+description: 简单聊几句今天的任天堂直面会，主要依照日版的顺序。
 pubDate: 2023-02-09
-tags: ['游戏','任天堂']
-categories: ['Game']
+tags:
+  - 游戏
+  - 任天堂
+categories:
+  - Game
 draft: false
 ---
 

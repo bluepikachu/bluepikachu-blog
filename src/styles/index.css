@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana, sans-serif;
+    font-family: Inter, sans-serif;
     overflow-y: scroll;
 }
 
@@ -83,12 +83,12 @@ a.animated.active:after {
 
 :root {
     /* blue */
-    /*--color-primary-main: 37 99 235;*/
-    /*--color-secondary-main: 24 79 196;*/
+    --color-primary-main: 17 117 222;
+    --color-secondary-main: 24 79 196;
 
     /*green*/
-    --color-primary-main: 29 116 132;
-    --color-secondary-main: 20 79 90;
+    /* --color-primary-main: 29 116 132;
+    --color-secondary-main: 20 79 90; */
 
     --color-text-body: 55 65 81;
     --color-text-heading: 55 65 81;
